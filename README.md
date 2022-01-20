@@ -28,6 +28,3 @@ JavaScript kursi
 ## Kod yozish uslubi:
 
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
-* [JavaScript guidelines](https://developer.mozilla.org/en-US/docs/MDN/Guidelines/Code_guidelines/JavaScript)
-* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-* [W3 Schools JavaScript Style Guide](https://www.w3schools.com/js/js_conventions.asp)
